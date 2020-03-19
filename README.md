@@ -9,6 +9,8 @@ to data on the band gap of materials. The final model that we come to is based s
 
 The second notebook `shapley_values_gbtree` introduces the application of [`TreeExplainer`](https://shap.readthedocs.io/en/latest/) to examine how the features of the model contribute to the outcomes. And to help with understanding the predictions that are made.
 
+![](images/shap.png)
+
 ## Files
 
 `data` - contains all the data needed to train the models
