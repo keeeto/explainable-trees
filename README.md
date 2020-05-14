@@ -13,7 +13,7 @@ The second notebook `shapley_values_gbtree` introduces the application of [`Tree
 
 ## Files
 
-`data` - contains all the data needed to train the models
-`models` - contains a pre-trained decision tree, if you want to skip straight to tutorial 2
-`notebooks` - has the two notebooks 
-`environment.yml` - contains the conda environment that these notebooks were developed in
+* `data` - contains all the data needed to train the models
+* `models` - contains a pre-trained decision tree, if you want to skip straight to tutorial 2
+* `notebooks` - has the two notebooks 
+* `environment.yml` - contains the conda environment that these notebooks were developed in
